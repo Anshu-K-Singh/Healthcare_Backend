@@ -3,6 +3,8 @@
 ## Overview
 This project is a backend system for a healthcare application built using Django, Django REST Framework (DRF), and PostgreSQL. It provides APIs for user authentication, patient management, doctor management, and patient-doctor mappings.
 
+# [visit the link for postman docs](https://documenter.getpostman.com/view/39139211/2sB2j1gC5f)
+
 ---
 
 ## Features
@@ -335,6 +337,3 @@ SECRET_KEY=your_secret_key
    Use Postman or `curl` to test the endpoints.
 
 ---
-
-## License
-This project is licensed under the MIT License.
